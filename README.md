@@ -22,11 +22,15 @@ Timer state:
 - Long break (red): 15 minutes
 
 Bugs:
-- Timer auto starting when the app is opened
+- Timer auto starting when the app is opened (in android virtual device)
+- No icon on timer start pause button
 
 Next Update:
-- Add icon start/pause in timer button
+- Add icon to start/pause button
 - Timer in notification
 - Swipe gesture to change state
 - Add sound when the timer is end
 - Daily stats
+
+## APK File Download
+For apk file you can download [here](https://drive.google.com/file/d/103RnTTQ8E1wcIzsqr2wt2bTId-dGPEX2/view?usp=sharing)
